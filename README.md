@@ -1,6 +1,7 @@
+
 # FlexiMart Data Architecture Project
 
-Student Name: Arjun  
+Student Name: vijesh kumar saini  
 Project: FlexiMart Data Architecture Assignment  
 
 ## Project Overview
@@ -37,3 +38,4 @@ Part 3: Completed
 ## Outcome
 
 A complete end-to-end data system from raw data to analytics-ready warehouse.
+# bitsom_ba_25071283-fleximart-data-architecture
