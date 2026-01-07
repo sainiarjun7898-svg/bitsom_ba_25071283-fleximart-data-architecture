@@ -1,0 +1,48 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Samsung Galaxy S21",
+    "category": "Electronics",
+    "price": 45999,
+    "stock": 150,
+    "ratings": 4.5,
+    "reviews": [
+      { "user": "Rahul", "comment": "Excellent phone", "stars": 5 },
+      { "user": "Amit", "comment": "Good camera", "stars": 4 }
+    ],
+    "supplier": {
+      "name": "TechDistributors Ltd",
+      "city": "Bangalore"
+    }
+  },
+  {
+    "product_id": "P002",
+    "name": "Nike Running Shoes",
+    "category": "Fashion",
+    "price": 3499,
+    "stock": 80,
+    "ratings": 4.2,
+    "reviews": [
+      { "user": "Priya", "comment": "Very comfortable", "stars": 5 }
+    ],
+    "supplier": {
+      "name": "SportyWear Pvt Ltd",
+      "city": "Mumbai"
+    }
+  },
+  {
+    "product_id": "P003",
+    "name": "Apple MacBook Pro",
+    "category": "Electronics",
+    "price": 129999,
+    "stock": 40,
+    "ratings": 4.8,
+    "reviews": [
+      { "user": "Sneha", "comment": "Super fast", "stars": 5 }
+    ],
+    "supplier": {
+      "name": "Apple India",
+      "city": "Delhi"
+    }
+  }
+]
